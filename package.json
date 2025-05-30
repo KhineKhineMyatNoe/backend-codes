@@ -1,6 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
-  "author": "KhineKhineMyatNoe",
+  "author": "Khine Khine Myat Noe",
+  "version": "1.2",
   "dependencies": {
     "express": "^4.14.0"
   },

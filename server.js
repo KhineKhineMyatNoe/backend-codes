@@ -35,7 +35,7 @@ app.get("/_api/package.json", (req, res) => {
 });
 
 app.get("/", (req, res) => {
-  res.sendFile(path.join(__dirname, "views", "index.html"));
+  res.sendFile(path.join(__dirname, "views", "package.json"));
 });
 
 // 404 handler
